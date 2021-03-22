@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "8e6f7af4aa7dd91cae1c9a0f4461a415"
+build_time: [1565518386, 376089000]
+inputs:
+  "/Users/lganti/Desktop/SSSVapor/Routes/Sources/App/boot.swift": [1565518005, 801410772]
+  "/Users/lganti/Desktop/SSSVapor/Routes/Sources/App/configure.swift": [1565518005, 801939710]
+  "/Users/lganti/Desktop/SSSVapor/Routes/Sources/App/routes.swift": [1565518005, 802760585]

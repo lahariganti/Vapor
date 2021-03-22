@@ -1,0 +1,6 @@
+#set("body") {
+   <p class="lead">#markdown(story.strap)</p>
+   <p>#markdown(story.content)</p>
+}
+
+#embed("master")

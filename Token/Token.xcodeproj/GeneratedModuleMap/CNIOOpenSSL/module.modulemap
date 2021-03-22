@@ -1,0 +1,4 @@
+module CNIOOpenSSL {
+    umbrella "/Users/lganti/Desktop/SSSVapor/Token/.build/checkouts/swift-nio-ssl/Sources/CNIOOpenSSL/include"
+    export *
+}

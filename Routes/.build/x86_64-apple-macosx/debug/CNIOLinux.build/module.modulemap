@@ -1,0 +1,4 @@
+module CNIOLinux {
+    umbrella header "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/swift-nio/Sources/CNIOLinux/include/CNIOLinux.h"
+    export *
+}

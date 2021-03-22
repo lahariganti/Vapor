@@ -1,0 +1,4 @@
+module CNIOOpenSSL {
+    umbrella "/Users/lganti/Desktop/Diskotek/.build/checkouts/swift-nio-ssl/Sources/CNIOOpenSSL/include"
+    export *
+}

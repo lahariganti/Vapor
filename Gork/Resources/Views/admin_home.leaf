@@ -1,0 +1,13 @@
+#set("body") {
+	<p>Select a story to edit, or <a href="/admin/edit">click here to create a new one</a>.</p>
+
+	<ul>
+		#for(story in stories) {
+			<li>
+				<a href="https://www.hackingwithswift.com/admin/edit/#(story.id)">#(story.title)</a>
+			</li>
+		}
+	</ul>
+}
+
+#embed("master")

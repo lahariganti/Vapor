@@ -1,0 +1,4 @@
+module CNIOOpenSSL {
+    umbrella "/Users/lganti/Desktop/Gork/.build/checkouts/swift-nio-ssl/Sources/CNIOOpenSSL/include"
+    export *
+}

@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/Users/lganti/Desktop/SSSVapor/Routes/.build/x86_64-apple-macosx/debug/NIOConcurrencyHelpers.build/master.swiftdeps"
+  },
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/swift-nio/Sources/NIOConcurrencyHelpers/atomics.swift": {
+    "dependencies": "/Users/lganti/Desktop/SSSVapor/Routes/.build/x86_64-apple-macosx/debug/NIOConcurrencyHelpers.build/atomics.d",
+    "object": "/Users/lganti/Desktop/SSSVapor/Routes/.build/x86_64-apple-macosx/debug/NIOConcurrencyHelpers.build/atomics.swift.o",
+    "swiftmodule": "/Users/lganti/Desktop/SSSVapor/Routes/.build/x86_64-apple-macosx/debug/NIOConcurrencyHelpers.build/atomics~partial.swiftmodule",
+    "swift-dependencies": "/Users/lganti/Desktop/SSSVapor/Routes/.build/x86_64-apple-macosx/debug/NIOConcurrencyHelpers.build/atomics.swiftdeps"
+  },
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/swift-nio/Sources/NIOConcurrencyHelpers/lock.swift": {
+    "dependencies": "/Users/lganti/Desktop/SSSVapor/Routes/.build/x86_64-apple-macosx/debug/NIOConcurrencyHelpers.build/lock.d",
+    "object": "/Users/lganti/Desktop/SSSVapor/Routes/.build/x86_64-apple-macosx/debug/NIOConcurrencyHelpers.build/lock.swift.o",
+    "swiftmodule": "/Users/lganti/Desktop/SSSVapor/Routes/.build/x86_64-apple-macosx/debug/NIOConcurrencyHelpers.build/lock~partial.swiftmodule",
+    "swift-dependencies": "/Users/lganti/Desktop/SSSVapor/Routes/.build/x86_64-apple-macosx/debug/NIOConcurrencyHelpers.build/lock.swiftdeps"
+  }
+}

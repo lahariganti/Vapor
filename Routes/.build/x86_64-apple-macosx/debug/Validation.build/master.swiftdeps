@@ -1,0 +1,22 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "792431b2a3abcae9fefc1ba0200793c3"
+build_time: [1565518360, 823993000]
+inputs:
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/validation/Sources/Validation/Exports.swift": [1565518198, 410820871]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/validation/Sources/Validation/Validatable.swift": [1565518198, 411120977]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/validation/Sources/Validation/ValidationError.swift": [1565518198, 411547994]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/validation/Sources/Validation/Validations.swift": [1565518198, 412196058]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/validation/Sources/Validation/Validator.swift": [1565518198, 412419816]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/validation/Sources/Validation/ValidatorType.swift": [1565518198, 412754670]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/validation/Sources/Validation/Validators/AndValidator.swift": [1565518198, 413069784]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/validation/Sources/Validation/Validators/CharacterSetValidator.swift": [1565518198, 413315215]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/validation/Sources/Validation/Validators/CountValidator.swift": [1565518198, 413575295]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/validation/Sources/Validation/Validators/EmailValidator.swift": [1565518198, 413792980]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/validation/Sources/Validation/Validators/EmptyValidator.swift": [1565518198, 414204499]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/validation/Sources/Validation/Validators/InValidator.swift": [1565518198, 414607265]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/validation/Sources/Validation/Validators/NilIgnoringValidator.swift": [1565518198, 414992386]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/validation/Sources/Validation/Validators/NilValidator.swift": [1565518198, 415243629]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/validation/Sources/Validation/Validators/NotValidator.swift": [1565518198, 415561946]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/validation/Sources/Validation/Validators/OrValidator.swift": [1565518198, 416093136]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/validation/Sources/Validation/Validators/RangeValidator.swift": [1565518198, 416413858]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/validation/Sources/Validation/Validators/URLValidator.swift": [1565518198, 416827402]

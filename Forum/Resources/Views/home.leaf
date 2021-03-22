@@ -1,0 +1,20 @@
+#set("title") { Home }
+
+#set("body") {
+	<h1>Cyberia</h1>
+	#if(username) {
+		<p>Welcome back, #(username)!</p>
+
+		<ul>
+			#for(forum in forums) {
+				<li>
+					<a href="/forum/#(forum.id)">#(forum.name)</a>
+				</li>
+			}
+		</ul>
+	} else {
+    	<a href="https://www.hackingwithswift.com/users/login">Please log in.</a>
+    }
+}
+
+#embed("master")

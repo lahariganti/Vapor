@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "ba7d6775aa173c57cc40bef9470fe418"
+build_time: [1565518338, 432741000]
+inputs:
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/swift-nio/Sources/NIOConcurrencyHelpers/atomics.swift": [1565518204, 863337448]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/swift-nio/Sources/NIOConcurrencyHelpers/lock.swift": [1565518204, 863757319]

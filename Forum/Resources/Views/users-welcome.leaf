@@ -1,0 +1,6 @@
+#set("title") {Welcome!}
+#set("body") {
+   <h1>Welcome!</h1>
+}
+
+#embed("master")

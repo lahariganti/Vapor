@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/lganti/Desktop/SSSVapor/Routes/.build/x86_64-apple-macosx/debug/COperatingSystem.build/master.swiftdeps"
+  },
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/core/Sources/COperatingSystem/libc.swift": {
+    "dependencies": "/Users/lganti/Desktop/SSSVapor/Routes/.build/x86_64-apple-macosx/debug/COperatingSystem.build/libc.d",
+    "object": "/Users/lganti/Desktop/SSSVapor/Routes/.build/x86_64-apple-macosx/debug/COperatingSystem.build/libc.swift.o",
+    "swiftmodule": "/Users/lganti/Desktop/SSSVapor/Routes/.build/x86_64-apple-macosx/debug/COperatingSystem.build/libc~partial.swiftmodule",
+    "swift-dependencies": "/Users/lganti/Desktop/SSSVapor/Routes/.build/x86_64-apple-macosx/debug/COperatingSystem.build/libc.swiftdeps"
+  }
+}

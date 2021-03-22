@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "6ae029f255d63490cb3d052075e23d29"
+build_time: [1565518379, 610828000]
+inputs:
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/websocket/Sources/WebSocket/Exports.swift": [1565518201, 848896092]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/websocket/Sources/WebSocket/WebSocket+Client.swift": [1565518201, 850504553]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/websocket/Sources/WebSocket/WebSocket+Server.swift": [1565518201, 860262014]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/websocket/Sources/WebSocket/WebSocket.swift": [1565518201, 863393094]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/websocket/Sources/WebSocket/WebSocketFrameSequence.swift": [1565518201, 893043466]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/websocket/Sources/WebSocket/WebSocketHandler.swift": [1565518201, 896051292]

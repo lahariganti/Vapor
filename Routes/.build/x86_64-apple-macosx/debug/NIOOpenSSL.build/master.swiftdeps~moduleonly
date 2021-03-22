@@ -1,0 +1,21 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "50e922c40fb35cfce09786b4f155ad2c"
+build_time: [1565518348, 537211000]
+inputs:
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/ByteBufferBIO.swift": [1565518203, 947277013]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/IdentityVerification.swift": [1565518203, 947948046]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/OpenSSLClientHandler.swift": [1565518203, 948227410]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/OpenSSLHandler.swift": [1565518203, 948768868]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/OpenSSLServerHandler.swift": [1565518203, 949104101]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/PosixPort.swift": [1565518203, 949359723]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLCertificate.swift": [1565518203, 949708851]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLConnection.swift": [1565518203, 950087482]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLContext.swift": [1565518203, 950528498]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLErrors.swift": [1565518203, 994655078]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLInit.swift": [1565518204, 6701476]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLPKCS12Bundle.swift": [1565518204, 7036055]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLPointerTricks.swift": [1565518204, 7288482]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLPrivateKey.swift": [1565518204, 7611250]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLPublicKey.swift": [1565518204, 7834264]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLVerificationCallbacks.swift": [1565518204, 8010527]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/TLSConfiguration.swift": [1565518204, 8252495]

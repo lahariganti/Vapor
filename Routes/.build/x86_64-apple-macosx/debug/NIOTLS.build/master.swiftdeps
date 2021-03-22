@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "207714b1aaf290b8ea46f4c30f868eb1"
+build_time: [1565518344, 946512000]
+inputs:
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/swift-nio/Sources/NIOTLS/ApplicationProtocolNegotiationHandler.swift": [1565518204, 887829535]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/swift-nio/Sources/NIOTLS/SNIHandler.swift": [1565518204, 890515597]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/swift-nio/Sources/NIOTLS/TLSEvents.swift": [1565518204, 891105557]

@@ -1,0 +1,4 @@
+module CCryptoOpenSSL {
+    umbrella "/Users/lganti/Desktop/Diskotek/.build/checkouts/crypto/Sources/CCryptoOpenSSL/include"
+    export *
+}

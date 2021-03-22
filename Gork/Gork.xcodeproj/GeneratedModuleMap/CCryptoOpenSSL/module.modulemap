@@ -1,0 +1,4 @@
+module CCryptoOpenSSL {
+    umbrella "/Users/lganti/Desktop/Gork/.build/checkouts/crypto/Sources/CCryptoOpenSSL/include"
+    export *
+}

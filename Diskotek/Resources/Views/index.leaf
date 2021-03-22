@@ -1,0 +1,13 @@
+#set("body") {
+	<p>Wow disko tek</p>
+}
+
+#set("h1") {
+	Welcome to siko disko
+}
+
+#set("title") {
+	Diskotek
+}
+
+#embed("master")

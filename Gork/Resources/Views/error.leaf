@@ -1,0 +1,7 @@
+#set("title") { Error }
+
+#set("body") {
+	<p>Sorry, there was an error</p>
+}
+
+#embed("master")

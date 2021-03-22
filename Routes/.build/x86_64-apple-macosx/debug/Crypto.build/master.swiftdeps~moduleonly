@@ -1,0 +1,23 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "ec5908433b0058704837913aeb68f6c2"
+build_time: [1565518373, 379182000]
+inputs:
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/crypto/Sources/Crypto/BCrypt/BCryptDigest.swift": [1565518196, 735199690]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/crypto/Sources/Crypto/Cipher/AuthenticatedCipher.swift": [1565518196, 737352099]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/crypto/Sources/Crypto/Cipher/AuthenticatedCipherAlgorithm.swift": [1565518196, 738595846]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/crypto/Sources/Crypto/Cipher/Cipher.swift": [1565518196, 739111189]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/crypto/Sources/Crypto/Cipher/CipherAlgorithm.swift": [1565518196, 739643645]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/crypto/Sources/Crypto/Cipher/OpenSSLCipherAlgorithm.swift": [1565518196, 739957360]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/crypto/Sources/Crypto/Cipher/OpenSSLStreamCipher.swift": [1565518196, 740490971]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/crypto/Sources/Crypto/Digest/Digest.swift": [1565518196, 741151864]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/crypto/Sources/Crypto/Digest/DigestAlgorithm.swift": [1565518196, 741513845]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/crypto/Sources/Crypto/MAC/HMAC.swift": [1565518196, 742068991]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/crypto/Sources/Crypto/MAC/OTP.swift": [1565518196, 742439452]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/crypto/Sources/Crypto/RSA/RSA.swift": [1565518196, 743159300]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/crypto/Sources/Crypto/RSA/RSAKey.swift": [1565518196, 743817440]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/crypto/Sources/Crypto/RSA/RSAPadding.swift": [1565518196, 744267344]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/crypto/Sources/Crypto/Random/CryptoRandom.swift": [1565518196, 744728332]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/crypto/Sources/Crypto/Utilities/Base32.swift": [1565518196, 745218052]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/crypto/Sources/Crypto/Utilities/CryptoError.swift": [1565518196, 745493343]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/crypto/Sources/Crypto/Utilities/Deprecated.swift": [1565518196, 745714687]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/crypto/Sources/Crypto/Utilities/Exports.swift": [1565518196, 745927142]

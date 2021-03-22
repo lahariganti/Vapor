@@ -1,0 +1,19 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "b7c211048f87a4f55a49e78a4ff474ee"
+build_time: [1565518347, 681323000]
+inputs:
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/core/Sources/Async/Async+NIO.swift": [1565518197, 848877751]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/core/Sources/Async/AsyncError.swift": [1565518197, 849316577]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/core/Sources/Async/Collection+Future.swift": [1565518197, 849695787]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/core/Sources/Async/Deprecated.swift": [1565518197, 850012988]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/core/Sources/Async/Exports.swift": [1565518197, 850273746]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/core/Sources/Async/Future+DoCatch.swift": [1565518197, 850572347]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/core/Sources/Async/Future+Flatten.swift": [1565518197, 850875875]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/core/Sources/Async/Future+Global.swift": [1565518197, 851101587]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/core/Sources/Async/Future+Map.swift": [1565518197, 851523998]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/core/Sources/Async/Future+Transform.swift": [1565518197, 851796181]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/core/Sources/Async/Future+Variadic.swift": [1565518197, 852459142]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/core/Sources/Async/Future+Void.swift": [1565518197, 852899599]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/core/Sources/Async/FutureType.swift": [1565518197, 853214599]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/core/Sources/Async/QueueHandler.swift": [1565518197, 853583842]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/core/Sources/Async/Worker.swift": [1565518197, 854024770]

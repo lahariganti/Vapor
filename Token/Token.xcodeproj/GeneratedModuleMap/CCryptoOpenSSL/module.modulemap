@@ -1,0 +1,4 @@
+module CCryptoOpenSSL {
+    umbrella "/Users/lganti/Desktop/SSSVapor/Token/.build/checkouts/crypto/Sources/CCryptoOpenSSL/include"
+    export *
+}

@@ -1,0 +1,23 @@
+{
+  "": {
+    "swift-dependencies": "/Users/lganti/Desktop/SSSVapor/Routes/.build/x86_64-apple-macosx/debug/App.build/master.swiftdeps"
+  },
+  "/Users/lganti/Desktop/SSSVapor/Routes/Sources/App/boot.swift": {
+    "dependencies": "/Users/lganti/Desktop/SSSVapor/Routes/.build/x86_64-apple-macosx/debug/App.build/boot.d",
+    "object": "/Users/lganti/Desktop/SSSVapor/Routes/.build/x86_64-apple-macosx/debug/App.build/boot.swift.o",
+    "swiftmodule": "/Users/lganti/Desktop/SSSVapor/Routes/.build/x86_64-apple-macosx/debug/App.build/boot~partial.swiftmodule",
+    "swift-dependencies": "/Users/lganti/Desktop/SSSVapor/Routes/.build/x86_64-apple-macosx/debug/App.build/boot.swiftdeps"
+  },
+  "/Users/lganti/Desktop/SSSVapor/Routes/Sources/App/configure.swift": {
+    "dependencies": "/Users/lganti/Desktop/SSSVapor/Routes/.build/x86_64-apple-macosx/debug/App.build/configure.d",
+    "object": "/Users/lganti/Desktop/SSSVapor/Routes/.build/x86_64-apple-macosx/debug/App.build/configure.swift.o",
+    "swiftmodule": "/Users/lganti/Desktop/SSSVapor/Routes/.build/x86_64-apple-macosx/debug/App.build/configure~partial.swiftmodule",
+    "swift-dependencies": "/Users/lganti/Desktop/SSSVapor/Routes/.build/x86_64-apple-macosx/debug/App.build/configure.swiftdeps"
+  },
+  "/Users/lganti/Desktop/SSSVapor/Routes/Sources/App/routes.swift": {
+    "dependencies": "/Users/lganti/Desktop/SSSVapor/Routes/.build/x86_64-apple-macosx/debug/App.build/routes.d",
+    "object": "/Users/lganti/Desktop/SSSVapor/Routes/.build/x86_64-apple-macosx/debug/App.build/routes.swift.o",
+    "swiftmodule": "/Users/lganti/Desktop/SSSVapor/Routes/.build/x86_64-apple-macosx/debug/App.build/routes~partial.swiftmodule",
+    "swift-dependencies": "/Users/lganti/Desktop/SSSVapor/Routes/.build/x86_64-apple-macosx/debug/App.build/routes.swiftdeps"
+  }
+}

@@ -1,0 +1,7 @@
+#set("title") {Contact}
+#set("h1") {Get in touch}
+#set("body") {
+	<p>Call us @ 88985</p>
+}
+
+#embed("master")

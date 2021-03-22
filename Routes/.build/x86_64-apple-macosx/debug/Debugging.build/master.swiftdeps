@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "cfc0e00819279d35aabb0c5cd2e5df2e"
+build_time: [1565518325, 296516000]
+inputs:
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/core/Sources/Debugging/Debuggable.swift": [1565518197, 872493704]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/core/Sources/Debugging/Demangler.swift": [1565518197, 872821922]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/core/Sources/Debugging/SourceLocation.swift": [1565518197, 873117765]

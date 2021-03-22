@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "11c654a5bd19d36a88ad8b335a1e425c"
+build_time: [1565518349, 194536000]
+inputs:
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/crypto/Sources/Random/Array+Random.swift": [1565518196, 746458063]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/crypto/Sources/Random/OSRandom.swift": [1565518196, 746804274]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/crypto/Sources/Random/RandomProtocol.swift": [1565518196, 747093992]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/crypto/Sources/Random/URandom.swift": [1565518196, 747403307]

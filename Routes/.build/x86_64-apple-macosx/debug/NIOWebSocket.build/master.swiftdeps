@@ -1,0 +1,13 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "21c1f580571b2b2320752b2d1edcb732"
+build_time: [1565518354, 81146000]
+inputs:
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/swift-nio/Sources/NIOWebSocket/Base64.swift": [1565518204, 891604884]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/swift-nio/Sources/NIOWebSocket/SHA1.swift": [1565518204, 551679434]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/swift-nio/Sources/NIOWebSocket/WebSocketErrorCodes.swift": [1565518204, 892233292]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/swift-nio/Sources/NIOWebSocket/WebSocketFrame.swift": [1565518204, 893228268]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/swift-nio/Sources/NIOWebSocket/WebSocketFrameDecoder.swift": [1565518204, 894401184]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/swift-nio/Sources/NIOWebSocket/WebSocketFrameEncoder.swift": [1565518204, 895213210]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/swift-nio/Sources/NIOWebSocket/WebSocketOpcode.swift": [1565518204, 895677778]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/swift-nio/Sources/NIOWebSocket/WebSocketProtocolErrorHandler.swift": [1565518204, 896097598]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/swift-nio/Sources/NIOWebSocket/WebSocketUpgrader.swift": [1565518204, 896430479]

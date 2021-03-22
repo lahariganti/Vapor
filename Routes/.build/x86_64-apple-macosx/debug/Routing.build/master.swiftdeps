@@ -1,0 +1,16 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "7ad2202fcf5959ca4d25bd4940211cb6"
+build_time: [1565518368, 347760000]
+inputs:
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/routing/Sources/Routing/Parameter/Parameter.swift": [1565518199, 674246472]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/routing/Sources/Routing/Parameter/ParameterValue.swift": [1565518199, 674455073]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/routing/Sources/Routing/Parameter/Parameters.swift": [1565518199, 674609472]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/routing/Sources/Routing/Register/PathComponent.swift": [1565518199, 674856595]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/routing/Sources/Routing/Register/Route.swift": [1565518199, 675044378]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/routing/Sources/Routing/Register/RouterOption.swift": [1565518199, 675205453]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/routing/Sources/Routing/Routing/RoutableComponent.swift": [1565518199, 675464062]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/routing/Sources/Routing/Routing/RouterNode.swift": [1565518199, 675763346]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/routing/Sources/Routing/Routing/TrieRouter.swift": [1565518199, 676633553]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/routing/Sources/Routing/Utilities/Deprecated.swift": [1565518199, 676952853]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/routing/Sources/Routing/Utilities/Exports.swift": [1565518199, 677221275]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/routing/Sources/Routing/Utilities/RoutingError.swift": [1565518199, 677516847]

@@ -1,0 +1,20 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "b47993c3e9ccddcdf7c9127025c02f7f"
+build_time: [1565518378, 499542000]
+inputs:
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/console/Sources/Command/Base/CommandOption.swift": [1565518199, 398220235]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/console/Sources/Command/Base/CommandRunnable.swift": [1565518199, 398537985]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/console/Sources/Command/Command/Command.swift": [1565518199, 398977521]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/console/Sources/Command/Command/CommandArgument.swift": [1565518199, 399137580]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/console/Sources/Command/Config/CommandConfig.swift": [1565518199, 399466959]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/console/Sources/Command/Config/Commands.swift": [1565518199, 399729553]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/console/Sources/Command/Group/BasicCommandGroup.swift": [1565518199, 400024923]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/console/Sources/Command/Group/CommandGroup.swift": [1565518199, 400195213]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/console/Sources/Command/Run/CommandContext.swift": [1565518199, 400447618]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/console/Sources/Command/Run/CommandInput.swift": [1565518199, 400669530]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/console/Sources/Command/Run/Console+Run.swift": [1565518199, 400851296]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/console/Sources/Command/Run/Output+Autocomplete.swift": [1565518199, 401028565]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/console/Sources/Command/Run/Output+Help.swift": [1565518199, 401385694]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/console/Sources/Command/Utilities/CommandError.swift": [1565518199, 401771167]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/console/Sources/Command/Utilities/Exports.swift": [1565518199, 402058474]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/console/Sources/Command/Utilities/Utilities.swift": [1565518199, 402424164]

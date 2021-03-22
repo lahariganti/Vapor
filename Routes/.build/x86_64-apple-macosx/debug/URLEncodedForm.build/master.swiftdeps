@@ -1,0 +1,12 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "a757a1b1231bc20fb966078a79ac3472"
+build_time: [1565518360, 823465000]
+inputs:
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/url-encoded-form/Sources/URLEncodedForm/Codable/URLEncodedFormDecoder.swift": [1565518200, 931325253]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/url-encoded-form/Sources/URLEncodedForm/Codable/URLEncodedFormEncoder.swift": [1565518200, 931535478]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/url-encoded-form/Sources/URLEncodedForm/Data/URLEncodedFormData.swift": [1565518200, 931763700]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/url-encoded-form/Sources/URLEncodedForm/Data/URLEncodedFormDataConvertible.swift": [1565518200, 932035723]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/url-encoded-form/Sources/URLEncodedForm/Data/URLEncodedFormParser.swift": [1565518200, 932275417]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/url-encoded-form/Sources/URLEncodedForm/Data/URLEncodedFormSerializer.swift": [1565518200, 932434287]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/url-encoded-form/Sources/URLEncodedForm/Utilities/Exports.swift": [1565518200, 932636803]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/url-encoded-form/Sources/URLEncodedForm/Utilities/URLEncodedFormError.swift": [1565518200, 932778106]

@@ -1,0 +1,16 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "8aeb56a2505a80c8b5f5b939a502cfa7"
+build_time: [1565518344, 946135000]
+inputs:
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/core/Sources/Bits/BitsError.swift": [1565518197, 854455547]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/core/Sources/Bits/Byte+Alphabet.swift": [1565518197, 854771203]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/core/Sources/Bits/Byte+Control.swift": [1565518197, 855057493]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/core/Sources/Bits/Byte+Digit.swift": [1565518197, 855318588]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/core/Sources/Bits/ByteBuffer+binaryFloatingPointOperations.swift": [1565518197, 855595512]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/core/Sources/Bits/ByteBuffer+peek.swift": [1565518197, 855889283]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/core/Sources/Bits/ByteBuffer+require.swift": [1565518197, 856240364]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/core/Sources/Bits/ByteBuffer+string.swift": [1565518197, 856556066]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/core/Sources/Bits/Bytes.swift": [1565518197, 857448638]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/core/Sources/Bits/Data+Bytes.swift": [1565518197, 858721549]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/core/Sources/Bits/Data+Strings.swift": [1565518197, 859154949]
+  "/Users/lganti/Desktop/SSSVapor/Routes/.build/checkouts/core/Sources/Bits/Deprecated.swift": [1565518197, 859686793]
